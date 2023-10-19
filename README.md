@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m Emmanuel Mutua<br>- 👀Android Developer - Jetpack Compose | Kotlin<br>- 🌱SpringBoot and Microservices<br>- 🌱 I’m currently learning Jetpack Compose and Cloud Computing<br>- 💞️ I’m looking to collaborate on the Github community
+- 👋 Hi, I’m Emmanuel Mutua<br>- 👀Android Developer <br>- 🌱I love SpringBoot<br>- 🌱 I’m currently under safaricom training (RPA) <br>- 💞️ I’m looking to collaborate on the Github community
 
 
 ## 🌐 Socials:
