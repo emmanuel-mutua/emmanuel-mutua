@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m Emmanuel Mutua<br>- 👀Android Developer <br>- 🌱I love SpringBoot<br>- <br>- 💞️ I’m looking to collaborate on the Github community
+- 👋 Hi, I’m Emmanuel Mutua<br>- 👀Android Developer <br>- 🌱I love SpringBoot<br><br>- 💞️ I’m looking to collaborate on the Github community
 
 
 ## 🌐 Socials:
