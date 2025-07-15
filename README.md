@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m Emmanuel Mutua<br>- 👀Software Engineer <br>- 🌱I love SpringBoot, Android and BlockChain <br>- 💞️ I’m looking to collaborate on the Github community
+- 👋 Hi, I’m Emmanuel Mutua<br>- 👀Software Engineer <br>- 🌱I love SpringBoot, Android JAVA, C#, kotlin <br>- 💞️ Open Source Contributor
 
 
 ## 🌐 Socials:
