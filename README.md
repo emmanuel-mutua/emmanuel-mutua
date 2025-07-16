@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m Emmanuel Mutua<br>- 👀Software Engineer <br>- 🌱I love SpringBoot, Android JAVA, C#, kotlin <br>- 💞️ Open Source Contributor
+- 👋 Hi, I’m Emmanuel Mutua<br>- 👀Software Engineer (Java/C#/Kotlin) <br>- 💞️ Open Source Contributor
 
 
 ## 🌐 Socials:
